@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Auth.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="basket_page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="page_shop.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="profile_page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Reg.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Welcome window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="window_shop.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Auth.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="basket_page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="page_shop.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="profile_page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Reg.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Welcome window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

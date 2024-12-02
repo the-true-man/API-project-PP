@@ -1,0 +1,47 @@
+[
+  {
+    "orders": [],
+    "Id": 1,
+    "Name": "wer",
+    "lastName": "qweqwe",
+    "middleName": "wer",
+    "email": "qwe@mail.ru",
+    "password": "qwe123",
+    "isGuest": false
+  },
+  {
+    "orders": [
+      {
+        "Id": 1,
+        "IdUser": 2,
+        "Count_item": 3,
+        "General_cost": 3797,
+        "DateOrder": "2024-10-17T16:02:45.0437835+05:00",
+        "Status": "Оформлен"
+      },
+      {
+        "Id": 2,
+        "IdUser": 2,
+        "Count_item": 50,
+        "General_cost": 79950,
+        "DateOrder": "2024-10-17T16:04:07.9278114+05:00",
+        "Status": "Оформлен"
+      },
+      {
+        "Id": 3,
+        "IdUser": 2,
+        "Count_item": 1,
+        "General_cost": 1599,
+        "DateOrder": "17.10.2024 16:08:12",
+        "Status": "Оформлен"
+      }
+    ],
+    "Id": 2,
+    "Name": "Лиана",
+    "lastName": "Набиева",
+    "middleName": "Рамилевна",
+    "email": "qwe@mail.ru",
+    "password": "qwe123",
+    "isGuest": false
+  }
+]

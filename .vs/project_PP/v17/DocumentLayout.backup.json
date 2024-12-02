@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5144965A-5A11-4BA9-B77F-45BE69602CF6}|JSONAPI\\JSONAPI.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\jsonapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5144965A-5A11-4BA9-B77F-45BE69602CF6}|JSONAPI\\JSONAPI.csproj|solutionrelative:jsonapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5144965A-5A11-4BA9-B77F-45BE69602CF6}|JSONAPI\\JSONAPI.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\jsonapi\\model\\json_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5144965A-5A11-4BA9-B77F-45BE69602CF6}|JSONAPI\\JSONAPI.csproj|solutionrelative:jsonapi\\model\\json_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\bin\\debug\\net8.0-windows\\allusers1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\bin\\debug\\net8.0-windows\\allusers1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\welcome window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\welcome window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\basket_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\basket_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\reg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\reg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5144965A-5A11-4BA9-B77F-45BE69602CF6}|JSONAPI\\JSONAPI.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\jsonapi\\jsonapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5144965A-5A11-4BA9-B77F-45BE69602CF6}|JSONAPI\\JSONAPI.csproj|solutionrelative:jsonapi\\jsonapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\arm64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\page_shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\page_shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\page_shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\page_shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\window_shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\window_shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\profile_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\profile_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\profile_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\profile_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\window_shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\window_shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\welcome window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\welcome window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\basket_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\basket_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|c:\\users\\evgenijmihajlov\\yandexdisk\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_pp\\project_pp\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2460DD8-5793-4301-912A-5B39F67CD251}|project_PP\\project_PP.csproj|solutionrelative:project_pp\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 598,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Reg.xaml.cs",
+              "RelativeDocumentMoniker": "project_PP\\Reg.xaml.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Reg.xaml.cs",
+              "RelativeToolTip": "project_PP\\Reg.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAxMzMzMzkv1gAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:11:05.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Auth.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Auth.xaml",
+              "RelativeDocumentMoniker": "project_PP\\Auth.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Auth.xaml",
+              "RelativeToolTip": "project_PP\\Auth.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T07:32:31.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JSON_User.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\JSONAPI\\Model\\JSON_User.cs",
+              "RelativeDocumentMoniker": "JSONAPI\\Model\\JSON_User.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\JSONAPI\\Model\\JSON_User.cs",
+              "RelativeToolTip": "JSONAPI\\Model\\JSON_User.cs",
+              "ViewState": "AgIAAAAAAABANDMzMzMbwAcAAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:36.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "allUsers1.json",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\bin\\Debug\\net8.0-windows\\allUsers1.json",
+              "RelativeDocumentMoniker": "project_PP\\bin\\Debug\\net8.0-windows\\allUsers1.json",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\bin\\Debug\\net8.0-windows\\allUsers1.json",
+              "RelativeToolTip": "project_PP\\bin\\Debug\\net8.0-windows\\allUsers1.json",
+              "ViewState": "AgIAAB4AAACAl5mZmZkewC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T08:51:26.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\JSONAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JSONAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\JSONAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JSONAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEEAAAAA0MzMzIwmwE0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:32:29.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "basket_page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\basket_page.xaml.cs",
+              "RelativeDocumentMoniker": "project_PP\\basket_page.xaml.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\basket_page.xaml.cs",
+              "RelativeToolTip": "project_PP\\basket_page.xaml.cs",
+              "ViewState": "AgIAABAAAAAAyszMzMwnwFsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:46:16.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Welcome window.xaml.cs",
+              "RelativeDocumentMoniker": "project_PP\\Welcome window.xaml.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Welcome window.xaml.cs",
+              "RelativeToolTip": "project_PP\\Welcome window.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAZmZmZuYswBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:11:11.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Person.cs",
+              "RelativeDocumentMoniker": "project_PP\\Person.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Person.cs",
+              "RelativeToolTip": "project_PP\\Person.cs",
+              "ViewState": "AgIAAB4AAACA0czMzMwZwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:31:53.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auth.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Auth.xaml.cs",
+              "RelativeDocumentMoniker": "project_PP\\Auth.xaml.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Auth.xaml.cs",
+              "RelativeToolTip": "project_PP\\Auth.xaml.cs",
+              "ViewState": "AgIAABoAAACAyMzMzMz+vyUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:19:06.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Product.cs",
+              "RelativeDocumentMoniker": "project_PP\\Product.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Product.cs",
+              "RelativeToolTip": "project_PP\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:35:44.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAACsBAADAAgAAAIAgwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-21T16:31:36.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JSONAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\JSONAPI\\JSONAPI.csproj",
+              "RelativeDocumentMoniker": "JSONAPI\\JSONAPI.csproj",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\JSONAPI\\JSONAPI.csproj",
+              "RelativeToolTip": "JSONAPI\\JSONAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T16:30:56.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\arm64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\arm64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\arm64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\arm64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAEwHAAAAAAAAAAAQwGEHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-21T16:31:16.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Order.cs",
+              "RelativeDocumentMoniker": "project_PP\\Order.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Order.cs",
+              "RelativeToolTip": "project_PP\\Order.cs",
+              "ViewState": "AgIAAAoAAABA/////38QwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:33:22.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "page_shop.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\page_shop.xaml.cs",
+              "RelativeDocumentMoniker": "project_PP\\page_shop.xaml.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\page_shop.xaml.cs",
+              "RelativeToolTip": "project_PP\\page_shop.xaml.cs",
+              "ViewState": "AgIAADoAAAAApJmZmRkpwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:16:12.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "window_shop.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\window_shop.xaml.cs",
+              "RelativeDocumentMoniker": "project_PP\\window_shop.xaml.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\window_shop.xaml.cs",
+              "RelativeToolTip": "project_PP\\window_shop.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAYmZmZiYgwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:39:19.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "profile_page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\profile_page.xaml.cs",
+              "RelativeDocumentMoniker": "project_PP\\profile_page.xaml.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\profile_page.xaml.cs",
+              "RelativeToolTip": "project_PP\\profile_page.xaml.cs",
+              "ViewState": "AgIAAFAAAACA0czMzEwXwGAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:46:58.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "profile_page.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\profile_page.xaml",
+              "RelativeDocumentMoniker": "project_PP\\profile_page.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\profile_page.xaml",
+              "RelativeToolTip": "project_PP\\profile_page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T11:41:46.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "page_shop.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\page_shop.xaml",
+              "RelativeDocumentMoniker": "project_PP\\page_shop.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\page_shop.xaml",
+              "RelativeToolTip": "project_PP\\page_shop.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T09:35:02.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Reg.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Reg.xaml",
+              "RelativeDocumentMoniker": "project_PP\\Reg.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Reg.xaml",
+              "RelativeToolTip": "project_PP\\Reg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T07:07:06.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "window_shop.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\window_shop.xaml",
+              "RelativeDocumentMoniker": "project_PP\\window_shop.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\window_shop.xaml",
+              "RelativeToolTip": "project_PP\\window_shop.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T09:31:48.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Welcome window.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Welcome window.xaml",
+              "RelativeDocumentMoniker": "project_PP\\Welcome window.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Welcome window.xaml",
+              "RelativeToolTip": "project_PP\\Welcome window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T07:06:19.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "basket_page.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\basket_page.xaml",
+              "RelativeDocumentMoniker": "project_PP\\basket_page.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\basket_page.xaml",
+              "RelativeToolTip": "project_PP\\basket_page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T09:31:50.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\App.xaml.cs",
+              "RelativeDocumentMoniker": "project_PP\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\App.xaml.cs",
+              "RelativeToolTip": "project_PP\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:10:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\App.xaml",
+              "RelativeDocumentMoniker": "project_PP\\App.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\App.xaml",
+              "RelativeToolTip": "project_PP\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T10:37:22.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Styles.xaml",
+              "RelativeDocumentMoniker": "project_PP\\Styles.xaml",
+              "ToolTip": "C:\\Users\\evgenijmihajlov\\YandexDisk\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\project_PP\\project_PP\\Styles.xaml",
+              "RelativeToolTip": "project_PP\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T10:34:40.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

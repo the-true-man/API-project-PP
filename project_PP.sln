@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project_PP", "project_PP\project_PP.csproj", "{B2460DD8-5793-4301-912A-5B39F67CD251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONAPI", "JSONAPI\JSONAPI.csproj", "{5144965A-5A11-4BA9-B77F-45BE69602CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2460DD8-5793-4301-912A-5B39F67CD251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2460DD8-5793-4301-912A-5B39F67CD251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2460DD8-5793-4301-912A-5B39F67CD251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2460DD8-5793-4301-912A-5B39F67CD251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5144965A-5A11-4BA9-B77F-45BE69602CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5144965A-5A11-4BA9-B77F-45BE69602CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5144965A-5A11-4BA9-B77F-45BE69602CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5144965A-5A11-4BA9-B77F-45BE69602CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {808857B1-95A2-4295-AEF8-C56D8744DDD8}
+	EndGlobalSection
+EndGlobal

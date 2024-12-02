@@ -1,0 +1,55 @@
+﻿<Window x:Class="project_PP.window_shop"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:project_PP"
+        mc:Ignorable="d"
+        Title="Магазин" Height="1080" Width="1920" MinHeight="800" MinWidth="1200" WindowState="Maximized" Background="#ffe0b3" Closing="Window_Closed">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+        <Frame x:Name="frame_shop" NavigationUIVisibility="Hidden" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.Row="1" Grid.RowSpan="9"  Grid.Column="1" Grid.ColumnSpan="2" >
+            
+        </Frame>
+        <Border Grid.Column="0" Background="#2b2b2b" Margin="100 0 10 0" CornerRadius="50" Grid.Row="1" Grid.RowSpan="3" >
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="35" Direction="270" Color="Black" ShadowDepth="10" Opacity="0.5"></DropShadowEffect>
+            </Border.Effect>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button x:Name="btn_shop" Grid.Row="0" Margin="15 5 15 5" BorderBrush="Transparent"  Background="Transparent" Content="Каталог" FontSize="30" Foreground="White" Click="btn_shop_Click"></Button>
+                <Button x:Name="btn_basket" Grid.Row="1" Margin="15 5 15 5" BorderBrush="Transparent" Background="Transparent" Content="Корзина" FontSize="30" Foreground="White" Click="btn_basket_Click"></Button>
+                <Button x:Name="btn_profile" Grid.Row="2" Margin="15 5 15 5" BorderBrush="Transparent" Background="Transparent" Content="Личный кабинет" FontSize="30" Foreground="White" Click="btn_profile_Click"></Button>
+
+            </Grid>
+        </Border>
+        <TextBlock Margin="10" TextAlignment="Center" FontSize="20"  Background="Transparent" HorizontalAlignment="Left">
+    <Hyperlink Click="Button_Click" Foreground="Black" TextDecorations="Underline">
+        Выйти из профиля
+    </Hyperlink>
+        </TextBlock>
+    </Grid>
+</Window>

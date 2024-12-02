@@ -1,0 +1,44 @@
+﻿<Page x:Class="project_PP.basket_page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:project_PP"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="basket_page">
+
+    <Grid>
+        <Border Background="#2b2b2b" CornerRadius="50" MinHeight="500" MinWidth="500" Width="auto" Height="auto" Margin="0 0 15 15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="35" Direction="270" Color="Black" ShadowDepth="10" Opacity="0.5"></DropShadowEffect>
+            </Border.Effect>
+        </Border>
+        <StackPanel>
+            <ListView x:Name="lb_basket" Margin="50 50 50 50" Height="auto" MaxHeight="500">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Width="600">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="{Binding Title}" Grid.Column="0"  FontSize="18" Foreground="Black"></TextBlock>
+                            <TextBlock Margin="50 0 0 0" FontSize="18" Grid.Column="1" Foreground="Black" Text="{Binding Cost, StringFormat={}{0} руб.}"></TextBlock>
+                            <Button Content="Удалить" FontSize="20" Grid.Column="2" HorizontalAlignment="Right" Click="deleteProductFromBasket_Button_Click"></Button>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <StackPanel Orientation="Horizontal" Margin="20 0 0 0">
+                <Label Content="Общая сумма: "  FontSize="30" Foreground="White" ></Label>
+                <Label x:Name="lb_general_cost" Content="10000"  FontSize="30" FontWeight="DemiBold" Foreground="White" ></Label>
+
+            </StackPanel>
+            <Button Content="Купить все товары из корзины" Width="300" Height="40" FontSize="18" HorizontalAlignment="Left" Margin="50 0 0 0" Click="Button_Click"></Button>
+        </StackPanel>
+        
+    </Grid>
+</Page>
